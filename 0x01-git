@@ -1,0 +1,8 @@
+ cd alx-pre_course
+mkdir 0x01-git
+cd 0x01-git
+ cd ..
+git add .
+git commit -m "Create 0x01-git directory"
+git push
+git checkout master
